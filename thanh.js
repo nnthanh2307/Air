@@ -2,4 +2,5 @@ var array = [{firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"}, {first
 array.forEach(function(item)
 {
     console.log(item);
+    //thanh
 })
